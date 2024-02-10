@@ -1,4 +1,4 @@
-# Thumbnail Downloader for YouTube Links
+# Thumbnail Downloader for YouTube
 
 This SwiftUI app allows users to fetch and Download thumbnails from YouTube video links. Users can also save and share the fetched thumbnails.
 
