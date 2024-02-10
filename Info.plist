@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleExecutable</key>
+	<string>Music</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.music.p1</string>
+	<key>CFBundleName</key>
+	<string>Music</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0</string>
+	<key>CFBundleVersion</key>
+	<string>1.0</string>
+	<key>MinimumOSVersion</key>
+	<string>14.0</string>
+	<key>UILaunchScreen</key>
+	<dict>
+	<key>NSCameraUsageDescription</key>
+  <string>This app needs access to the camera to take photos.</string>
+  <key>NSPhotoLibraryUsageDescription</key>
+  <string>This app needs access to photos.</string>
+  <key>UILaunchScreen</key>
+	<dict/>
+	</dict>
+  </dict>
+  </plist>
