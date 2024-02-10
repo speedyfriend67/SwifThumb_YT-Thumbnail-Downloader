@@ -46,7 +46,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 - Speedyfriend67
 - SparkcleChanJB (Swifty, Swift Compiler)
-- GitHub: [Your GitHub Profile](https://github.com/yourusername)
+- GitHub: [My Github Profile]([https://github.com/yourusername)](https://github.com/speedyfriend67)
 
 ## Contributions
 
