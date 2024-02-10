@@ -10,13 +10,15 @@ This SwiftUI app allows users to fetch and Download thumbnails from YouTube vide
 
 ## Screenshots
 
-Include screenshots of the app in action here.
+![IMG_7693](https://github.com/speedyfriend67/YT-Thumbnail-Downloader/assets/82425907/7c2299cb-2625-4864-a5e7-9a5c3ebb9a2a)
+![IMG_7692](https://github.com/speedyfriend67/YT-Thumbnail-Downloader/assets/82425907/441c36f8-6f91-4ea8-9c63-3f11ad0b35a4)
+
 
 ## Getting Started
 
 To run the app locally, follow these steps:
 
-1. Clone this repository to your local machine.
+1. Clone this repository to your local device.
 2. Open the project in Xcode.
 3. Build and run the app on a simulator or a physical device.
 
